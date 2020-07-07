@@ -1,0 +1,21 @@
+nav{
+    margin-bottom: 20px;
+}
+#messages{
+    margin-top: 20px;
+
+
+}
+#card-contact {
+    width: 100%;
+}
+
+#content{
+    width: 800px;
+}
+
+
+#map{
+	height: 500px;
+	width: 100%;
+}
